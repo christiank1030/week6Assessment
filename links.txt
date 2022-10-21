@@ -5,4 +5,4 @@ Trello:
 
 Deployed Site:
 
-    
+    https://week6-assessment-duelduo.herokuapp.com/
